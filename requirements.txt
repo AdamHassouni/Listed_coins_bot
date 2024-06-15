@@ -2,8 +2,3 @@ aiohttp
 asyncio
 websockets
 requests
-smtplib
-ssl
-json
-logging
-datetime
