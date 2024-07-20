@@ -22,8 +22,8 @@ NewCoinListings Bot is an automated trading bot that listens for new coin listin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/newcoinlistings-bot.git
-    cd newcoinlistings-bot
+    git clone https://github.com/AdamHassouni/Listed_coins_bot
+    cd Listed_coins_bot
     ```
 
 2. Install the required Python libraries:
